@@ -3,22 +3,22 @@
 ## Portfolio Exercise: Starbucks
 <br>
 
-<img src="https://opj.ca/wp-content/uploads/2018/02/New-Starbucks-Logo-1200x969.jpg" width="200" height="200">
+<img src="https://opj.ca/wp-content/uploads/2018/02/New-Starbucks-Logo-1200x969.jpg" width="250" height="200">
 <br>
 <br>
  
 
 ### Table of Contents
 
-1. [Task Description](#description)
-1.1. [Background Information](#info)
-1.2. [Optimization Strategy](#optim)
-1.3. [How To Test Your Strategy?](#test)
-2. [Proposed Strategy](#strategy)
-2.1. [Imbalanced Training Set](#imbalance)
-2.2. [Parameter Tuning](#tuning)
-3. [File Description](#files)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Task Description](#description)  
+- [Background Information](#info)  
+- [Optimization Strategy](#optim)  
+- [How To Test Your Strategy?](#test)  
+2. [Proposed Strategy](#strategy)  
+- [Imbalanced Training Set](#imbalance)  
+- [Parameter Tuning](#tuning)  
+3. [File Description](#files)  
+4. [Licensing, Authors, and Acknowledgements](#licensing)  
 
 
 ## Task Description <a name="description"></a>
